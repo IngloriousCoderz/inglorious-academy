@@ -2,9 +2,9 @@
 
 Reference material for the free courses performed in streaming.
 
-## Day 0
+## Module 0
 
-The first day starts with some initial setup and a couple of challenges to be performed during the following week.
+The first module starts with some initial setup and a couple of challenges to be performed during the following week.
 
 Students need to install:
 
@@ -14,5 +14,7 @@ Students need to install:
 4. [Node.js](https://nodejs.org/) - quite useful to continue learning JavaScript without the need for a browser.
 5. [Slack](https://slack.com/) - our communication platform of choice.
 
-[Blockly Games](https://blockly.games/)
-[Typing.io](https://typing.io/)
+Also the first homework in this early stage is about playing two games:
+
+1. [Blockly Games](https://blockly.games/) - a logic puzzle game that reminds a lot of how coders think. Students can just do Mazes 1 to 9, or try the hard 10th level, and then maybe try out other games too.
+2. [Typing.io](https://typing.io/) - a typing game that lets students improve their speed and accuracy when typing code. The two games we're insterested here are "JavaScript jQuery" and "Less Bootstrap", since we are mainly going to do HTML, CSS and JavaScript.
