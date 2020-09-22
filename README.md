@@ -2,6 +2,8 @@
 
 Reference material for the free courses performed in streaming.
 
+All slides are available here: https://tinyurl.com/ic-academy.
+
 ## Module 0
 
 The first module starts with some initial setup and a couple of challenges to be performed during the following week.
